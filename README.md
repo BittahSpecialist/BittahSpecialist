@@ -1,7 +1,4 @@
-### Hi there 👋
-### I'm currently studying Artificial intelligence at university
-### I have a lot to learn
-### keen to see where I'm Headed
+
 
 <!--
 **BittahSpecialist/BittahSpecialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
